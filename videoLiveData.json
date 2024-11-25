@@ -1,1 +1,92 @@
-
+[
+  {
+    "id": "1",
+    "title": "Bhojpuri Sangeet",
+    "image": "./assets/bhojpuriS.png",
+    "streamUrl": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8"
+  },
+  {
+    "id": "2",
+    "title": "9xm Music",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbaB7L4Z_JnhEWDdN6OAJxJpoAOVCiXSr8Q&s",
+    "streamUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+  },
+  {
+    "id": "3",
+    "title": "ABP Ganga",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCXmyRiUZl-a2dWUoneGKD2caNKQJl2Mdrg&s",
+    "streamUrl": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
+  },
+  {
+    "id": "4",
+    "title": "Anjan Tv",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTRbcpDKkA0oDVxvrhkYArpa6rGOMxk6ksg&s",
+    "streamUrl": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
+  },
+  {
+    "id": "5",
+    "title": "9xm Jalwa",
+    "image": "./assets/jalwa.png",
+    "streamUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
+  },
+  {
+    "id": "6",
+    "title": "9xm Jhakash",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzeAjeYZEumMie4CYeiouLkA4yU2QODPVkA&s",
+    "streamUrl": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
+  },
+  {
+    "id": "7",
+    "title": "9xm Tashan",
+    "image": "https://pbs.twimg.com/profile_images/1151021293531045888/oyQOdfQ0_400x400.jpg",
+    "streamUrl": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
+  },
+  {
+    "id": "8",
+    "title": "Aaj Tak Live",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/640px-Aaj_tak_logo.png",
+    "streamUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+  },
+  {
+    "id": "9",
+    "title": "Dangal 2",
+    "image": "https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg",
+    "streamUrl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
+  },
+  {
+    "id": "10",
+    "title": "Dangal Tv",
+    "image": "https://img.indiaforums.com/channel/320x180/0/128-dangal-tv.jpg?c=5vWB7E",
+    "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
+  },
+  {
+    "id": "11",
+    "title": "Sony Kal",
+    "image": "https://www.radioandmusic.com/sites/www.radioandmusic.com/files/styles/696xauto/public/images/biz/2022/10/10/sony-kal.jpg?itok=ctzBlRuv",
+    "streamUrl": "https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8"
+  },
+  {
+    "id": "12",
+    "title": "Bollywood HD",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbL6Mh3EVYqJr7s7ICwYP4wZfxD0loL-f8A&s",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
+  },
+  {
+    "id": "13",
+    "title": "Shemaroo Movies",
+    "image": "https://etimg.etb2bimg.com/photo/64931581.cms",
+    "streamUrl": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+  },
+  {
+    "id": "14",
+    "title": "Bollywood Classic",
+    "image": "https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
+  },
+  {
+    "id": "15",
+    "title": "Zee Anmol",
+    "image": ".https://exchange4media.gumlet.io/news-photo/1502176607_kfcAQC_69975.jpg",
+    "streamUrl": "https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8"
+  }
+]

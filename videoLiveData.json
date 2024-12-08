@@ -88,5 +88,53 @@
     "title": "Zee Anmol",
     "image": "https://i.pinimg.com/1200x/db/40/e8/db40e892e951573803bdc56520e97d2f.jpg",
     "streamUrl": "https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8"
+  },
+    {
+    "id": "16",
+    "title": "3ABN Kids",
+    "image": "https://3abnkids.tv/img/fake_tablet.png",
+    "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u"
+  },
+   {
+    "id": "17",
+    "title": "SVBC Hindi",
+    "image": "https://yt3.googleusercontent.com/M9GkXz4gOKrsEWiFehPWUrm2iuijS7QDKWt6EjaPZHXTYSh1at709S9tJ2TEZ70UAgMtWxqpQg=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
+  },
+   {
+    "id": "18",
+    "title": "Total Bhakti",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYy2LvUeP-bfl1mVoILBmfu2ljI9gjkCpH2g&s",
+    "streamUrl": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8"
+  },
+   {
+    "id": "19",
+    "title": "Tv 9",
+    "image": "https://i.ytimg.com/vi/ifYQn_eByPQ/sddefault.jpg?v=5fdd930d",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
+  },
+   {
+    "id": "20",
+    "title": "The Movie Club",
+    "image": "https://t4.ftcdn.net/jpg/04/82/37/53/360_F_482375378_9q1OVUTCIKY029UGNhW0vbOG6bNuK3SX.jpg",
+    "streamUrl": "https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8"
+  },
+    {
+    "id": "21",
+    "title": "South statio",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHIV2Q0TamDI54AKo5NbEXj6JRrmwwiwLtw&s",
+    "streamUrl": "https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8"
+  },
+    {
+    "id": "22",
+    "title": "Wild Earth",
+    "image": "https://provider-static.plex.tv/epg/cms/production/458264fd-11c7-4568-9177-2373626ff752/WildEarth_artwork_Horizontal_logordx.jpg",
+    "streamUrl": "https://wildearth-roku.amagi.tv/masterR720P.m3u8"
+  },
+   {
+    "id": "23",
+    "title": "Food",
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nVHcQ5jWciB8w2sTBY5crHPBM6ivH_4iW7V7C3fEKxIpLu=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8"
   }
 ]

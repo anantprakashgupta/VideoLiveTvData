@@ -1,81 +1,81 @@
 [
   {
-    "id": "3",
+    "id": "1",
     "title": "ABP Ganga",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCXmyRiUZl-a2dWUoneGKD2caNKQJl2Mdrg&s",
+    "image": "https://i.postimg.cc/65H4239w/images.png",
     "streamUrl": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
   },
   {
-    "id": "4",
+    "id": "2",
     "title": "Anjan Tv",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTRbcpDKkA0oDVxvrhkYArpa6rGOMxk6ksg&s",
+    "image": "https://i.postimg.cc/WzNttRCh/anjan.jpg",
     "streamUrl": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
   },
   {
-    "id": "5",
+    "id": "3",
     "title": "9xm Jalwa",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-YIbVGfTg61YM2Y6Cy1jkro2ePKlKwmSbhQ&s",
+    "image": "https://i.postimg.cc/4yWy9LRw/9xmjlwa.png",
     "streamUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
   },
   {
-    "id": "8",
+    "id": "4",
     "title": "Aaj Tak Live",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/640px-Aaj_tak_logo.png",
+    "image": "https://i.postimg.cc/ZYHC2Rv3/ajatak.png",
     "streamUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
   },
   {
-    "id": "9",
+    "id": "5",
     "title": "Dangal 2",
-    "image": "https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg",
+    "image": "https://i.postimg.cc/YSFvszQq/dangal2.jpg",
     "streamUrl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
   },
   {
-    "id": "10",
+    "id": "6",
     "title": "Dangal Tv",
-    "image": "https://img.indiaforums.com/channel/320x180/0/128-dangal-tv.jpg?c=5vWB7E",
+    "image": "https://i.postimg.cc/zG6L7cbc/dangaltv.jpg",
     "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
   },
   {
-    "id": "11",
+    "id": "7",
     "title": "Sony Kal",
-    "image": "https://www.radioandmusic.com/sites/www.radioandmusic.com/files/styles/696xauto/public/images/biz/2022/10/10/sony-kal.jpg?itok=ctzBlRuv",
+    "image": "https://i.postimg.cc/Kvcg8LhJ/sonikal.jpg",
     "streamUrl": "https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8"
   },
   {
-    "id": "12",
+    "id": "8",
     "title": "Bollywood HD",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbL6Mh3EVYqJr7s7ICwYP4wZfxD0loL-f8A&s",
+    "image": "https://i.postimg.cc/B6Gj9PC5/bollywoodhd.jpg",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
   },
   {
-    "id": "13",
+    "id": "9",
     "title": "Shemaroo Movies",
-    "image": "https://etimg.etb2bimg.com/photo/64931581.cms",
+    "image": "https://i.postimg.cc/J0DvN09g/shemaroo.jpg",
     "streamUrl": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
   },
   {
-    "id": "14",
+    "id": "10",
     "title": "Bollywood Classic",
-    "image": "https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg",
+    "image": "https://i.postimg.cc/76MfxPBF/bollywoodclassic.webp",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
   },
  
    {
-    "id": "17",
+    "id": "11",
     "title": "SVBC Hindi",
-    "image": "https://yt3.googleusercontent.com/M9GkXz4gOKrsEWiFehPWUrm2iuijS7QDKWt6EjaPZHXTYSh1at709S9tJ2TEZ70UAgMtWxqpQg=s900-c-k-c0x00ffffff-no-rj",
+    "image": "https://i.postimg.cc/3xd4gTRG/svbc.jpg",
     "streamUrl": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
   },
    {
-    "id": "18",
+    "id": "12",
     "title": "Total Bhakti",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYy2LvUeP-bfl1mVoILBmfu2ljI9gjkCpH2g&s",
+    "image": "https://i.postimg.cc/y6yZKjtD/totalbhakti.jpg",
     "streamUrl": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8"
   },
    {
-    "id": "19",
+    "id": "13",
     "title": "Tv 9",
-    "image": "https://i.ytimg.com/vi/ifYQn_eByPQ/sddefault.jpg?v=5fdd930d",
+    "image": "https://i.postimg.cc/gjsXKc8V/tv9.jpg",
     "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
   }
 ]

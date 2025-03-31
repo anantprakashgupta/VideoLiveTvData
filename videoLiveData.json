@@ -1,17 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "Bhojpuri Sangeet",
-    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",
-    "streamUrl": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8"
-  },
-  {
-    "id": "2",
-    "title": "9xm Music",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbaB7L4Z_JnhEWDdN6OAJxJpoAOVCiXSr8Q&s",
-    "streamUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
-  },
-  {
     "id": "3",
     "title": "ABP Ganga",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCXmyRiUZl-a2dWUoneGKD2caNKQJl2Mdrg&s",
@@ -28,18 +16,6 @@
     "title": "9xm Jalwa",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-YIbVGfTg61YM2Y6Cy1jkro2ePKlKwmSbhQ&s",
     "streamUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
-  },
-  {
-    "id": "6",
-    "title": "9xm Jhakash",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS16H9I8IZs7QUeB7c2STpc6zQXZbFZmxQqHA&s",
-    "streamUrl": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
-  },
-  {
-    "id": "7",
-    "title": "9xm Tashan",
-    "image": "https://pbs.twimg.com/profile_images/1151021293531045888/oyQOdfQ0_400x400.jpg",
-    "streamUrl": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
   },
   {
     "id": "8",
@@ -83,18 +59,7 @@
     "image": "https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
   },
-  {
-    "id": "15",
-    "title": "Zee Anmol",
-    "image": "https://i.pinimg.com/1200x/db/40/e8/db40e892e951573803bdc56520e97d2f.jpg",
-    "streamUrl": "https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8"
-  },
-    {
-    "id": "16",
-    "title": "3ABN Kids",
-    "image": "https://3abnkids.tv/img/fake_tablet.png",
-    "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u"
-  },
+ 
    {
     "id": "17",
     "title": "SVBC Hindi",
@@ -112,29 +77,5 @@
     "title": "Tv 9",
     "image": "https://i.ytimg.com/vi/ifYQn_eByPQ/sddefault.jpg?v=5fdd930d",
     "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
-  },
-   {
-    "id": "20",
-    "title": "The Movie Club",
-    "image": "https://t4.ftcdn.net/jpg/04/82/37/53/360_F_482375378_9q1OVUTCIKY029UGNhW0vbOG6bNuK3SX.jpg",
-    "streamUrl": "https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8"
-  },
-    {
-    "id": "21",
-    "title": "South statio",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHIV2Q0TamDI54AKo5NbEXj6JRrmwwiwLtw&s",
-    "streamUrl": "https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8"
-  },
-    {
-    "id": "22",
-    "title": "Wild Earth",
-    "image": "https://provider-static.plex.tv/epg/cms/production/458264fd-11c7-4568-9177-2373626ff752/WildEarth_artwork_Horizontal_logordx.jpg",
-    "streamUrl": "https://wildearth-roku.amagi.tv/masterR720P.m3u8"
-  },
-   {
-    "id": "23",
-    "title": "Food",
-    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nVHcQ5jWciB8w2sTBY5crHPBM6ivH_4iW7V7C3fEKxIpLu=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8"
   }
 ]

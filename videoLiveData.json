@@ -1,14 +1,81 @@
 [
   {
+    "id": "1",
+    "title": "ABP Ganga",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
+  },
+  {
+    "id": "2",
+    "title": "Anjan Tv",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
+  },
+  {
+    "id": "3",
+    "title": "9xm Jalwa",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
+  },
+  {
+    "id": "4",
+    "title": "Aaj Tak Live",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+  },
+  {
+    "id": "5",
+    "title": "Dangal 2",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
+  },
+  {
+    "id": "6",
+    "title": "Dangal Tv",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
+  },
+  {
+    "id": "7",
+    "title": "Sony Kal",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8"
+  },
+  {
+    "id": "8",
+    "title": "Bollywood HD",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
+  },
+  {
+    "id": "9",
+    "title": "Shemaroo Movies",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+  },
+  {
+    "id": "10",
+    "title": "Bollywood Classic",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
+  },
+ 
+   {
     "id": "11",
     "title": "SVBC Hindi",
     "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
     "streamUrl": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
   },
-  {
+   {
     "id": "12",
     "title": "Total Bhakti",
     "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
     "streamUrl": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8"
+  },
+   {
+    "id": "13",
+    "title": "Tv 9",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
   }
 ]

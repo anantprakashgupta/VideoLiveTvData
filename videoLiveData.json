@@ -83,5 +83,35 @@
     "title": "Anant Prakash",
     "image": "https://i.postimg.cc/Hx3ZQgdv/ap.png",
     "streamUrl": "https://anantprakashallsongmehfilmusic.netlify.app/master.m3u8"
+  },
+  {
+    "id": "15",
+    "title": "Dabang Bhojpuri",
+    "image": "https://i.postimg.cc/02vsdK8W/dabang.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8"
+  },
+   {
+    "id": "16",
+    "title": "9 xm",
+    "image": "https://i.postimg.cc/6QFs7yjh/9xm.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8"
+  },
+   {
+    "id": "17",
+    "title": "Masti",
+    "image": "https://i.postimg.cc/VkyzhZBR/masti.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8"
+  },
+  {
+    "id": "18",
+    "title": "Kids Tv",
+    "image": "https://i.postimg.cc/JnBLKbDg/kidstv.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8"
+  },
+   {
+    "id": "19",
+    "title": "Shemaaro Filmi Gaane",
+    "image": "https://i.postimg.cc/QMCsKLXj/shemaromovi.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8"
   }
 ]

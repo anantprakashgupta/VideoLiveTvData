@@ -3,115 +3,134 @@
     "id": "1",
     "title": "ABP Ganga",
     "image": "https://i.postimg.cc/wMYDyhsH/abpganga.webp",
-    "streamUrl": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
+    "streamUrl": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8",
+    "category" : "news"
   },
   {
     "id": "2",
     "title": "Anjan Tv",
     "image": "https://i.postimg.cc/8PbVykc1/anjantv.webp",
-    "streamUrl": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
+    "streamUrl": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
+    "category" : "serial"
   },
   {
     "id": "3",
     "title": "9xm Jalwa",
     "image": "https://i.postimg.cc/yND4YFPd/9xmjalwa.webp",
-    "streamUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
+    "streamUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8",
+    "category" : "song"
   },
   {
     "id": "4",
     "title": "Aaj Tak Live",
     "image": "https://i.postimg.cc/SxTbhZc3/aajatak.webp",
-    "streamUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+    "streamUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+    "category" : "news"
   },
   {
     "id": "5",
     "title": "Dangal 2",
     "image": "https://i.postimg.cc/Zn8hz4Lx/dangal2.webp",
-    "streamUrl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
+    "streamUrl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+    "category" : "serial"
   },
   {
     "id": "6",
     "title": "Dangal Tv",
     "image": "https://i.postimg.cc/HWXmy9C8/dangal.webp",
-    "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
+    "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+    "category" : "serial"
   },
   {
     "id": "7",
     "title": "Sony Kal",
     "image": "https://i.postimg.cc/P52Tqfn6/sonykal.webp",
-    "streamUrl": "https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8"
+    "streamUrl": "https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8",
+    "category" : "serial"
   },
   {
     "id": "8",
     "title": "Bollywood HD",
     "image": "https://i.postimg.cc/6pLxmWQW/bollywood.webp",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
+    "category" : "movie"
   },
   {
     "id": "9",
     "title": "Shemaroo Movies",
     "image": "https://i.postimg.cc/LsWSzyXL/shemaro.webp",
-    "streamUrl": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+    "streamUrl": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "category" : "movie"
   },
   {
     "id": "10",
     "title": "Bollywood Classic",
     "image": "https://i.postimg.cc/Qdrrm9hY/bollywoodclassic.webp",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
+    "category" : "movie"
   },
  
    {
     "id": "11",
     "title": "SVBC Hindi",
     "image": "https://i.postimg.cc/QCg1pHp7/svbchindi.webp",
-    "streamUrl": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
+    "streamUrl": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+     "category" : "news"
   },
    {
     "id": "12",
     "title": "Total Bhakti",
     "image": "https://i.postimg.cc/W3kM19zX/totalbhakti.webp",
-    "streamUrl": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8"
+    "streamUrl": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8",
+     "category" : "bhakti"
   },
    {
     "id": "13",
     "title": "Tv 9",
     "image": "https://i.postimg.cc/N0V6YhsK/tv9.webp",
-    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+     "category" : "news"
   },
   {
     "id": "14",
     "title": "Anant Prakash",
     "image": "https://i.postimg.cc/Hx3ZQgdv/ap.png",
-    "streamUrl": "https://anantprakashallsongmehfilmusic.netlify.app/master.m3u8"
+    "streamUrl": "https://anantprakashallsongmehfilmusic.netlify.app/master.m3u8",
+    "category" : "song"
   },
   {
     "id": "15",
     "title": "Dabang Bhojpuri",
     "image": "https://i.postimg.cc/02vsdK8W/dabang.webp",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8"
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8",
+    "category" : "song"
   },
    {
     "id": "16",
     "title": "9 xm",
     "image": "https://i.postimg.cc/6QFs7yjh/9xm.webp",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8"
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8",
+     "category" : "song"
   },
    {
     "id": "17",
     "title": "Masti",
     "image": "https://i.postimg.cc/VkyzhZBR/masti.webp",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8"
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8",
+     "category" : "song"
   },
   {
     "id": "18",
     "title": "Kids Tv",
     "image": "https://i.postimg.cc/JnBLKbDg/kidstv.webp",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8"
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8",
+    "category" : "cartoon"
   },
    {
     "id": "19",
     "title": "Shemaaro Filmi Gaane",
     "image": "https://i.postimg.cc/QMCsKLXj/shemaromovi.webp",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8"
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8",
+     "category" : "song"
   }
 ]

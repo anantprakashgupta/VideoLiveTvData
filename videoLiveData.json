@@ -103,7 +103,7 @@
     "title": "Dabang Bhojpuri",
     "image": "https://i.postimg.cc/02vsdK8W/dabang.webp",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8",
-    "category" : "song"
+    "category" : "Bhojpuri"
   },
    {
     "id": "16",
@@ -139,5 +139,33 @@
     "image": "https://i.postimg.cc/5NTF11qZ/webseries.webp",
     "streamUrl": "",
      "category" : "Webseries"
+  },
+  {
+    "id": "21",
+    "title": "Mahua Tv",
+    "image": "https://i.postimg.cc/BnhN1vMS/mahua.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8",
+     "category" : "Bhojpuri"
+  },
+    {
+    "id": "22",
+    "title": "Kids Nursery Tv",
+    "image": "https://i.postimg.cc/nc61hnJx/kidsnursery.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8",
+     "category" : "cartoon"
+  },
+    {
+    "id": "23",
+    "title": "Filmachi Bhojpuri",
+    "image": "https://i.postimg.cc/yYJPKk2n/filmachi.webp",
+    "streamUrl": "https://epiconvh.akamaized.net/live/filamchi/master_1080.m3u8",
+     "category" : "Bhojpuri"
+  },
+    {
+    "id": "24",
+    "title": "Nazaara Tv",
+    "image": "https://i.postimg.cc/QNYbvpYH/nazara.webp",
+    "streamUrl": "https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8",
+     "category" : "serial"
   }
 ]
